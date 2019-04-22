@@ -4,6 +4,6 @@
 
 ## Team and Responsibility
 * Nick Carmen - Engineer
-* Gerardo Faia - Architect
+* Gerardo Faia - Engineer
 * Lakshmi Maguluri - Architect
-* Shubhra Mahey - Engineer
+* Shubhra Mahey - Architect
